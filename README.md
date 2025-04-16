@@ -1,10 +1,12 @@
-#👩🏻‍💻 *Laura Novaes*
+# 👩🏻‍💻 Laura Novaes
 
 Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e tecnologia. Atualmente, estou no segundo ano do ensino médio, fazendo técnico em programação.
 
-▪︎ 🏡 São Paulo, Brasil
+---
 
 ### 🤖 Linguagens e Tecnologias
+
+
 
 <img 
     align="left" 
@@ -66,3 +68,5 @@ Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e tecnologia. At
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
+
+
