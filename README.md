@@ -35,11 +35,11 @@ Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e tecnologia. At
 
 <img 
    align="left" 
-   alt="SQLserver" 
-   title="SQLserver"
+   alt="MySql" 
+   title="MySql"
    width="30px" 
    style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 <img 
@@ -53,11 +53,38 @@ Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e tecnologia. At
 
 <img 
    align="left" 
+   alt="VsCode" 
+   title="VsCode"
+   width="30px" 
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+   align="left" 
+   alt="GitHub" 
+   title="GitHub"
+   width="30px" 
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+
+<img 
+   align="left" 
    alt="Figma" 
    title="Figma"
    width="30px" 
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+<img 
+   align="left" 
+   alt="BootStrap" 
+   title="BootStrap"
+   width="30px" 
+   style="padding-right: 10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
 />
 
 <img 
@@ -68,5 +95,3 @@ Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e tecnologia. At
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
 />
-
-
