@@ -3,7 +3,7 @@
 Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e aprender coisas novas. Atualmente, busco mais conhecimento na área da tecnologia!
 
 
-▪︎ 🔭 Ensino médio técnico em TI - FIAP
+▪︎ 🔭 Ensino médio técnico em TI - FIAP </br>
 ▪︎ 🌍 São Paulo - Brasil
 
 ---
