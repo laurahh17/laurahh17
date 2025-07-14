@@ -99,9 +99,3 @@ Me chamo Laura Novaes, tenho 16 anos e sou apaixonada por jogos e aprender coisa
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurahh17/laurahh17/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laurahh17/laurahh17/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/laurahh17/laurahh17/output/pacman-contribution-graph.svg">
-</picture>
